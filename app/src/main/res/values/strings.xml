@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Weight Tracker</string>
+
+
+    <string name="title_section1">Weights</string>
+    <string name="title_section2">Chart</string>
+    <string name="action_add">Add</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    <string name="new_weight_hint">New Weight</string>
+    <string name="add_with_current_timestamp">Add now</string>
+    <string name="add_with_custom_date">Select date/time</string>
+</resources>

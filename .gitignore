@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+build/
+*.log
+bin/
+gen/
+*.apk
+*.ap_
+*.class
+*.dex
+gen-external-apklibs
